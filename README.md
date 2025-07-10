@@ -1,7 +1,8 @@
 # azure_soc_lab
 
-# Build a Security Operations Center & Honeynet and monitor Live Traffic
---- Network Diagram ---
+# Build and Secure a Public-Facing Security Operations Center & Honeynet in Azure
+
+--- Network Diagram Screenshot ---
 
 ## Introduction
 
