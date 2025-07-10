@@ -1,6 +1,6 @@
 # azure_soc_lab
 
-# Build and Secure a Public-Facing Security Operations Center & Honeynet in Azure
+# Build and Secure a Public-Facing Security Operations Center + Honeynet in Azure
 
 --- Network Diagram Screenshot ---
 
